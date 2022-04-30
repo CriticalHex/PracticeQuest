@@ -1,6 +1,4 @@
 {
-    "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true,
     "terminal.integrated.profiles.windows": {
         "PowerShell": { "source": "PowerShell", "icon": "terminal-powershell" },
         "Command Prompt": {
